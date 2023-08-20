@@ -1,0 +1,7 @@
+db:
+  mysql:
+    DB_DATABASE: nestjs_db_test
+    DB_HOST: 45.138.70.27
+    DB_USERNAME: nestjs_db_test
+    DB_PASSWORD: fHnWS76fKeJefN74
+    DB_SYNC: true

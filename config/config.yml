@@ -1,0 +1,4 @@
+db:
+  mysql:
+    DB_HOST: 45.138.70.27
+    DB_PORT: 3306
